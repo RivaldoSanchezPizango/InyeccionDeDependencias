@@ -1,0 +1,5 @@
+[2024-10-07 20:42:30] [INFO ] [DentistDaoH2:170] Iniciando la busqueda de todos los odontólogos
+[2024-10-07 20:45:00] [INFO ] [DentistDaoH2:170] Iniciando la busqueda de todos los odontólogos
+[2024-10-07 20:45:00] [ERROR] [DentistDaoH2:197] Error: Tabla "DENTIST" no encontrada
+Table "DENTIST" not found; SQL statement:
+SELECT * FROM DENTIST [42102-224]
